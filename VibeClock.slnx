@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/VibeClock/VibeClock.csproj" />
+  <Project Path="tests/VibeClock.Tests/VibeClock.Tests.csproj" />
+</Solution>
